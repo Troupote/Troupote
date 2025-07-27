@@ -80,11 +80,8 @@ I'm passionate about creating elegant solutions to complex problems. With a back
 ## 🗂️ Highlighted Repositories
 
 <div align="center">
-  <a href="https://github.com/Troupote/awesome-project">
+  <a href="https://github.com/Troupote/BlackHoleRun">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Troupote&repo=awesome-project&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Troupote/cool-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Troupote&repo=cool-application&theme=tokyonight" />
   </a>
 </div>
 
