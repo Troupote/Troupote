@@ -61,11 +61,8 @@ I'm passionate about creating elegant solutions to complex problems. With a back
 ## 🏆 Projects
 
 <div align="center">
-  <a href="https://github.com/Troupote/project-1">
+  <a href="https://github.com/Troupote/BlackHoleRun">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Troupote&repo=project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Troupote/project-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Troupote&repo=project-2&theme=tokyonight" />
   </a>
 </div>
 <br>
