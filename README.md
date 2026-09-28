@@ -43,7 +43,7 @@ var thybault = new Developer
 flowchart LR
     repo["Git<br/>Helm charts + values"] -->|pull| flux["Flux"]
     flux -->|HelmRelease| k8s
-    subgraph k8s["Kubernetes · prod + staging"]
+    subgraph k8s["Kubernetes => prod + staging"]
         ezyflow["EzyFlow connectors"] <--> nats[("NATS JetStream")]
         runners["GitHub Actions runners"] -->|SBOM| dt["Dependency-Track"]
         apps["EzyWizardus, dashboards"] --- sso["Authentik SSO"]
@@ -68,7 +68,7 @@ EzyFlow moves Ezytail's orders, products and invoices between online stores, the
 
 ```mermaid
 flowchart LR
-    carriers["Carrier invoices<br/>DPD, UPS, DHL, Chronopost,<br/>TNT, DB Schenker…"] --> prefac["Prefactra<br/>EzyManager · C# / SQL Server"]
+    carriers["Carrier invoices<br/>DPD, UPS, DHL, Chronopost,<br/>TNT, DB Schenker…"] --> prefac["Prefactra<br/>EzyManager => C# / SQL Server"]
     prefac --> clients["Client invoices<br/>B2B / B2C"]
 ```
 
