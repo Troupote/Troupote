@@ -110,13 +110,12 @@ A frantic **360° bullet heaven**: you fight hordes across the whole surface of 
 
 | Area | What I built |
 |---|---|
-| **Performance** | Rewrote enemy avoidance for a native 3D map: **−25 ms per frame at 5,000 entities**, now **under 1 ms**. Spawner **−5 ms**, adaptive performance **−10 ms per frame**, faster targeting. |
+| **Performance** | Rewrote enemy avoidance for a native 3D map: **−7 ms per frame at 5,000 entities**, now **under 1 ms**. Spawner **~5 ms**, adaptive performance **~10 ms per frame**, faster targeting. |
 | **Gameplay** | Movement, XP orbs, critical hits (with their shader), resistances, a global stat database with upgrades, wave loop and presets, difficulty scaling, the first boss. |
 | **Audio** | FMOD from setup to ship: audio manager, SFX integration with buffering, mixer and volume settings. |
 | **Mobile** | Android builds and **NFC**: tap a physical card on the phone to pick your character or amulet. |
 | **Tools** | In-editor stats tool, camera preset editor, spawner inspector. |
 | **UI** | HUD, lobby, pause and settings menus, shop animations. |
-| **Backend&nbsp;R&D** | [CrazyBackendPlanet](https://github.com/Troupote/CrazyBackendPlanet): .NET services talking over **NATS**, persisted in **Turso (libSQL)**, with resilience and health checks. |
 
 <p align="center">
   <img src="assets/cps-combat.jpg" width="32%" alt="Combat on the volcanic planet">
@@ -150,8 +149,8 @@ Outside games, I also built [**ZendeskToSqlDatabase**](https://github.com/Troupo
 |---|---|
 | **Games** | Unity 6 (ECS), C#, C++ (RAII, move semantics), FMOD Studio, Blender, rigging and skinning, game and level design, Android and NFC |
 | **Software** | C# / .NET, SQL Server, NATS JetStream, TypeScript, Next.js / React, Directus, WPF / XAML, OOP and UML, Python, Turso |
-| **Audio&nbsp;&&nbsp;video** | Music production, sound design, adaptive music, 5.1 mixing, Reaper, Premiere Pro, DaVinci Resolve |
-| **DevOps&nbsp;&&nbsp;platform** | **Kubernetes** (in production at Ezytail, and on my Talos Linux homelab), **Helm** charts, **Flux** (GitOps), CloudNativePG, Authentik SSO, Dependency-Track and CycloneDX SBOMs, GitHub Actions on Kubernetes runners, Docker, Git, Linux (daily Arch user) |
+| **Audio & video** | Music production, sound design, adaptive music, 5.1 mixing, Reaper, Premiere Pro, DaVinci Resolve |
+| **DevOps & platform** | **Kubernetes** (in production at Ezytail, and on my Talos Linux homelab), **Helm** charts, **Flux** (GitOps), CloudNativePG, Authentik SSO, Dependency-Track and CycloneDX SBOMs, GitHub Actions on Kubernetes runners, Docker, Git, Linux (daily Arch user) |
 
 ## 📈 Activity
 
