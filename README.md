@@ -12,9 +12,9 @@
 
 ### Hi, I'm Thybault 👋
 
-I'm a French game programmer who lives where **gameplay code meets sound**. I study computer science (video game track) at **[Cnam-Enjmin](https://enjmin.cnam.fr/)**, France's national school of video games and interactive media, and I work as a **software developer at [Ezytail](https://www.ezytail.com/)** on a work-study contract.
+I'm a French game programmer who lives where **gameplay code meets sound**. I study computer science at **[Cnam-Enjmin](https://enjmin.cnam.fr/)**, France's national school of video games and interactive media, and I work as a **software developer at [Ezytail](https://www.ezytail.com/)** on a work-study contract.
 
-I was a musician before I was a coder, so I care about how a system *feels* and *sounds*, and I like to measure it too. Latest example: I rewrote enemy avoidance in Crazy Planet Survivor and saved **~25 ms per frame with 5,000 entities** on screen.
+I was a musician before I was a coder, so I care about how a system *feels* and *sounds*, and I like to measure it too. Latest example: I rewrote enemy avoidance in Crazy Planet Survivor and saved **~7 ms per frame with 5,000 entities** on screen.
 
 The other half of my work is backend and platform. At Ezytail I build on **EzyFlow**, our event-driven integration platform (C#, NATS), and on the **Kubernetes** platform it runs on: **Helm** charts, **GitOps with Flux**, SSO, supply-chain security. After hours I run a **Talos Linux** homelab where I self-host whatever I need.
 
