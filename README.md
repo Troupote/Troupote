@@ -106,7 +106,7 @@ A frantic **360° bullet heaven**: you fight hordes across the whole surface of 
   <img src="https://img.shields.io/badge/platforms-Windows%20·%20Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Windows and Android">
 </p>
 
-**Team:** 2 developers and 1 tech artist, with music by Baptiste Blanc. **Me:** 200+ commits across performance, gameplay, audio, mobile and tools.
+**Team:** 2 developers and 1 tech artist, with music by Baptiste Blanc. **Me:** 140+ commits across performance, gameplay, audio, mobile and tools.
 
 | Area | What I built |
 |---|---|
